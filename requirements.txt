@@ -1,0 +1,3 @@
+# Runtime requirements for the python 3 version of systemq.
+blinker>=1.4
+waveforms>=1.5.25

@@ -1,0 +1,13 @@
+{
+    "executor": {
+        "type": "debug",
+        "path": "../home/cfg/checkpoint.json"
+    },
+    "data": {
+        "path": "",
+        "url": ""
+    },
+    "repo": {
+        "systemq": "."
+    }
+}
